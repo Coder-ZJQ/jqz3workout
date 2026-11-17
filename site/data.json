@@ -10916,6 +10916,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/20996703390",
       "year": 2026
+    },
+    {
+      "date": "2026-11-17",
+      "hour": 13,
+      "name": "\ud83d\udc2f \u4e94\u864e\u5c71\u65b0\u8def\u98ce\u666f\u8def\u51b5\u90fd\u5f88\u597d \ud83c\udf25\ufe0f",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/21018547199",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -19241,6 +19250,15 @@
           "distance": 87664.7,
           "elevation_gain": 657.0,
           "moving_time": 12425.0
+        },
+        "2026-11-17": {
+          "activity_ids": [
+            "21018547199"
+          ],
+          "count": 1,
+          "distance": 70971.2,
+          "elevation_gain": 617.0,
+          "moving_time": 9647.0
         }
       },
       "VirtualRide": {
@@ -20005,7 +20023,7 @@
       }
     }
   },
-  "generated_at": "2026-11-16T23:38:41.948260+00:00",
+  "generated_at": "2026-11-17T22:46:20.113613+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/117791316",
   "repo": "Coder-ZJQ/jqz3workout",
