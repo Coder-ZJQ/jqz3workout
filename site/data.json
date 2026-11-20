@@ -10934,6 +10934,33 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/21048833814",
       "year": 2026
+    },
+    {
+      "date": "2026-11-20",
+      "hour": 0,
+      "name": "\ud83c\udf5c \u5230\u9152\u5e97\u51fa\u53bb\u5403\u4e2a\u591c\u5bb5\u5200\u524a\u9762 \u2601\ufe0f\ud83c\udf19",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/21053696334",
+      "year": 2026
+    },
+    {
+      "date": "2026-11-20",
+      "hour": 12,
+      "name": "\ud83d\ude02 \u542c\u7740\u8bed\u97f3\u5bfc\u822a\u90fd\u6ca1\u7ed5\u51fa\u53bb\u52a8\u8f66\u7ad9 \u2601\ufe0f",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/21056720802",
+      "year": 2026
+    },
+    {
+      "date": "2026-11-20",
+      "hour": 9,
+      "name": "\ud83e\uddb5 \u819d\u76d6\u5e9f\u4e86\u6b66\u5937\u5c71\u53ea\u80fd\u7559\u5230\u4e0b\u6b21\u4e86 \ud83c\udf1e",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/21056720957",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -19277,6 +19304,17 @@
           "distance": 404720.0,
           "elevation_gain": 4239.6,
           "moving_time": 50338.0
+        },
+        "2026-11-20": {
+          "activity_ids": [
+            "21053696334",
+            "21056720802",
+            "21056720957"
+          ],
+          "count": 3,
+          "distance": 21287.5,
+          "elevation_gain": 139.0,
+          "moving_time": 3969.0
         }
       },
       "VirtualRide": {
@@ -20041,7 +20079,7 @@
       }
     }
   },
-  "generated_at": "2026-11-19T22:34:25.356685+00:00",
+  "generated_at": "2026-11-20T22:07:05.134500+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/117791316",
   "repo": "Coder-ZJQ/jqz3workout",
